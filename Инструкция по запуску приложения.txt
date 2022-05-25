@@ -1,0 +1,6 @@
+Чтоб запустить приложение нам нужно:
+1) Зайти в папку react-project и прописать в консоли npm start
+2) Дальше запустить программу open server
+3) Создать базу данных reactjs
+4) Импортировать в reactjs reactjs.sql из папки backend_project
+5) Зайти в папку backend_project и прописать в консоли node index.js
